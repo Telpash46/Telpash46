@@ -1,4 +1,4 @@
-# Hi, I'm Pavel 👋
+# Hello, I'm Pavel 👋
 
 ### Software Developer · Systems & Network Enthusiast · Cybersecurity Learner
 
@@ -10,7 +10,7 @@ I believe in understanding technology from the inside out: not just using tools,
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - 💻 Interested in software development, systems programming, and computer architecture.
 - 🌐 Exploring network technologies, server infrastructure, and distributed systems.
@@ -45,7 +45,7 @@ I believe in understanding technology from the inside out: not just using tools,
 
 ---
 
-## 🔬 Areas of Interest
+## 🔎 Areas of Interest
 
 - **Systems Programming** - operating systems, computer architecture, low-level software and hardware interaction.
 - **Networking & Infrastructure** - network protocols, routing, servers, virtualization, and self-hosted services.
